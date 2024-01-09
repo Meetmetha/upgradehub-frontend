@@ -8,3 +8,4 @@ diffs
 downloaded
 web/dist
 app/.env
+package-lock.json
